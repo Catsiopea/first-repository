@@ -1,2 +1,2 @@
 # first-repository
-My first repository. I made it for a class assignment
+My first repository. I made it for a class assignment. 
